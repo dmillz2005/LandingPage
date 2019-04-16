@@ -103,6 +103,18 @@ body.scrollable {
 .h5{
     padding-bottom:10px;
 }
+
+
+
+@media screen and (min-width: 500px){
+    .mobileview{
+        display: none;
+    }
+    .desktopview{
+        display:flex;
+    }
+}
+
 /* .floatimg{
     float: left;
     position: relative;
