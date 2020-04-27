@@ -12,7 +12,7 @@ h4 {
 .text-center {
     padding-top: 5%;
     padding-left: 10%;
-    color:white;
+    color:coral;
     font-weight: bold;
 }
 .signup{
@@ -22,7 +22,7 @@ h4 {
 
 }
 .signup:hover{
-color:red;
+color:coral;
 }
 
 .logoleft {
@@ -86,8 +86,9 @@ body.scrollable {
     justify-content: center; 
 
 }
+
 .background{
-    background-color:lightgray;
+    background-color:white;
 }
 .ovals{
     background-color: white;
@@ -103,7 +104,9 @@ body.scrollable {
 }
 .h5{
     padding-bottom:10px;
+    color: coral;
 }
+
 
 
 
